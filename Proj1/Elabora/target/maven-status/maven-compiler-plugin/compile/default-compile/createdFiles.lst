@@ -1,0 +1,4 @@
+org\luca\pojos\Biblioteca.class
+org\luca\pojos\Libro.class
+org\luca\main\Main.class
+org\luca\logic\BibliotecaManager.class
